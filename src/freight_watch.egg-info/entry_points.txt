@@ -1,0 +1,2 @@
+[console_scripts]
+freight-watch = freight_watch.cli:main

@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/freight_watch/__init__.py
+src/freight_watch/__main__.py
+src/freight_watch/analysis.py
+src/freight_watch/cli.py
+src/freight_watch.egg-info/PKG-INFO
+src/freight_watch.egg-info/SOURCES.txt
+src/freight_watch.egg-info/dependency_links.txt
+src/freight_watch.egg-info/entry_points.txt
+src/freight_watch.egg-info/top_level.txt
+tests/test_analysis.py

@@ -1,0 +1,7 @@
+Reproducibility check
+Runs: 3
+Result: byte-identical CSV outputs
+Route-weeks: 728
+SHA-256: 9f94942352445b79d6969410d7a8a35f5b0698823d164a879d43525f58da416c
+Threshold: 20.0%
+Randomness: none; no LLM calls or external services.

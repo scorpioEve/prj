@@ -1,0 +1,14 @@
+{
+  "project_version": "1.0.0",
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "estimated_model_cost_usd": 0.0,
+  "model": null,
+  "note": "All calculations and explanations are deterministic local code; no model was called.",
+  "threshold_pct": 20.0,
+  "shipment_records": 2940,
+  "route_weeks": 728,
+  "flagged_unexplained": 17,
+  "cost_increases_justified": 3
+}
